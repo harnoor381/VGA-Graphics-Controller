@@ -1,0 +1,10 @@
+QuestaSim-64 vlog 2022.1_2 Compiler 2022.04 Apr  2 2022
+Start time: 05:26:29 on Oct 17,2024
+vlog -l tb_rtl_reuleaux.rtl-vlog.rpt -cover bts -sv tb_rtl_reuleaux.sv reuleaux.sv 
+-- Compiling module tb_rtl_reuleaux
+-- Compiling module reuleaux
+
+Top level modules:
+	tb_rtl_reuleaux
+End time: 05:26:29 on Oct 17,2024, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

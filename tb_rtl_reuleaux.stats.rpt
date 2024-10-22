@@ -1,0 +1,24 @@
+Coverage Report Summary Data by instance
+
+=================================================================================
+=== Instance: /tb_rtl_reuleaux/dut
+=== Design Unit: work.reuleaux
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                       101        81        20    80.19%
+    Statements                     299       242        57    80.93%
+    Toggles                        622       355       267    57.07%
+
+=================================================================================
+=== Instance: /tb_rtl_reuleaux
+=== Design Unit: work.tb_rtl_reuleaux
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Statements                      97        84        13    86.59%
+    Toggles                         98        98         0   100.00%
+
+
+Total Coverage By Instance (filtered view): 75.14%
+

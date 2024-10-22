@@ -1,0 +1,15 @@
+QuestaSim-64 vlog 2022.1_2 Compiler 2022.04 Apr  2 2022
+Start time: 05:32:09 on Oct 17,2024
+vlog -l tb_task4_rtl-vlog.rpt -cover bts -sv tb_task4.sv task4.sv reuleaux.sv ../vga-core/vga_adapter.sv ../vga-core/vga_controller.sv ../vga-core/vga_pll.sv ../vga-core/vga_address_translator.sv 
+-- Compiling module tb_task4
+-- Compiling module task4
+-- Compiling module reuleaux
+-- Compiling module vga_adapter
+-- Compiling module vga_controller
+-- Compiling module vga_pll
+-- Compiling module vga_address_translator
+
+Top level modules:
+	tb_task4
+End time: 05:32:09 on Oct 17,2024, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

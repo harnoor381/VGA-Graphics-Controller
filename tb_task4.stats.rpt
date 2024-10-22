@@ -1,0 +1,79 @@
+Coverage Report Summary Data by instance
+
+=================================================================================
+=== Instance: /tb_task4/dut/r1
+=== Design Unit: work.reuleaux
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        99         5        94     5.05%
+    Statements                     294        27       267     9.18%
+    Toggles                        560        23       537     4.10%
+
+=================================================================================
+=== Instance: /tb_task4/dut/vga_u0/user_input_translator
+=== Design Unit: work.vga_address_translator
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Statements                       4         4         0   100.00%
+    Toggles                         96        45        51    46.87%
+
+=================================================================================
+=== Instance: /tb_task4/dut/vga_u0/mypll
+=== Design Unit: work.vga_pll
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Statements                       1         1         0   100.00%
+    Toggles                         16         8         8    50.00%
+
+=================================================================================
+=== Instance: /tb_task4/dut/vga_u0/controller/controller_translator
+=== Design Unit: work.vga_address_translator
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Statements                       4         4         0   100.00%
+    Toggles                         96        15        81    15.62%
+
+=================================================================================
+=== Instance: /tb_task4/dut/vga_u0/controller
+=== Design Unit: work.vga_controller
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         7         4         3    57.14%
+    Statements                      32        29         3    90.62%
+    Toggles                        276        14       262     5.07%
+
+=================================================================================
+=== Instance: /tb_task4/dut/vga_u0
+=== Design Unit: work.vga_adapter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Statements                       1         1         0   100.00%
+    Toggles                        144        25       119    17.36%
+
+=================================================================================
+=== Instance: /tb_task4/dut
+=== Design Unit: work.task4
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Statements                       3         3         0   100.00%
+    Toggles                        158        14       144     8.86%
+
+=================================================================================
+=== Instance: /tb_task4
+=== Design Unit: work.tb_task4
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Statements                      54        22        32    40.74%
+    Toggles                        294        21       273     7.14%
+
+
+Total Coverage By Instance (filtered view): 13.90%
+
