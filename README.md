@@ -3,7 +3,7 @@
 
 The top level diagram is shown below.
 
-<p align="center"><img src="figures/RTL.png" width="90%" height="90%" title="top-level design"></p>
+<p align="center"><img src="figures/RTL.png" width="100%" height="100%" title="top-level design"></p>
 
 Draws a [Reuleaux triangle](https://en.wikipedia.org/wiki/Reuleaux_triangle). This is a figure similar to a chubby equilateral triangle, where each triangle side is replaced by a section of a circle centred at the opposite corner:
 
